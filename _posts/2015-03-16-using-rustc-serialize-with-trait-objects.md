@@ -367,3 +367,5 @@ A runnable version of all the code in this post is [available on github](https:/
 In the languages I've spent more time with (C++, Objective-C, Swift), I'm not really a fan of inheritance in general.
 I'm glad Rust lands firmly on the side of favoring compile-time polymorphism and composition.
 However, I think this is a reasonable use case for trait objects, and an interesting exercise in exploring some of the more dynamic features available in the language.
+
+Discuss on [r/rust](http://www.reddit.com/r/rust/comments/2zarra/using_rustcserialize_with_trait_objects/).
